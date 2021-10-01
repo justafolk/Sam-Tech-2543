@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <h2>🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Sam-Tech-2543&theme=dracula" alt="devCli3nt" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Sam-Tech-2543&theme=dracula" alt="Sam-Tech-2543" />
 </p>
 
-![Cli3nt's github stats](https://github-readme-stats.vercel.app/api?username=Sam-Tech-2543&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/Sam-Tech-2543">
+![Sam-Tech-2543's github stats](https://github-readme-stats.vercel.app/api?username=Sam-Tech-2543&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/Sam-Tech-2543">
  
  
-<a href="https://github.com/Sam-Tech-2543"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devCli3nt&layout=compact&theme=radical"/></a>
+<a href="https://github.com/Sam-Tech-2543"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Tech-2543&layout=compact&theme=radical"/></a>
