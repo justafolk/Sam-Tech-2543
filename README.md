@@ -26,9 +26,7 @@ Here are some ideas to get you started:
  
 <h2>🔥 Streak Stats</h2>
 
-<p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Sam-Tech-2543&theme=dracula" alt="Sam-Tech-2543" />
-</p>
 
 ![Sam-Tech-2543's github stats](https://github-readme-stats.vercel.app/api?username=Sam-Tech-2543&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/Sam-Tech-2543">
  
